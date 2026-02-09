@@ -1,0 +1,6 @@
+# Ignore large generated files
+Data/ml_predictions.csv
+
+# Ignore Python cache
+__pycache__/
+*.pkl

@@ -1,4 +1,4 @@
-# Real Estate Price Prediction
+# Predicting House Prices with Linear Regression
 
 ## Objective
 Build a machine learning model to predict residential property prices based on property features.

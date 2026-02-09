@@ -1,7 +1,9 @@
-# 🏠 Real Estate Price Prediction & Analysis
+# 🏠 Predicting House Prices with Linear Regression
 
 ## 📌 Project Overview
 This project focuses on analyzing Mumbai real estate data and building a machine learning model to predict house prices based on key property features.
+
+This project was developed as part of an internship under the project title **“Predicting House Prices with Linear Regression.”**
 
 The project covers the complete data analytics lifecycle — from data cleaning and analysis to machine learning, visualization, and deployment.
 
